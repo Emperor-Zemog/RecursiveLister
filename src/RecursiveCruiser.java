@@ -95,6 +95,7 @@ public class RecursiveCruiser extends JFrame {
                 @Override
                 public void actionPerformed(ActionEvent e) {
                     File doc = docSelect.getSelectedFile();
+                    ta.setText("");
                     pathFinder(ta,doc,"");
 
 

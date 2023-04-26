@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bacb649-45a0-49dd-8ff1-52ea1ba09915" name="Changes" comment="" />
+    <list default="true" id="3bacb649-45a0-49dd-8ff1-52ea1ba09915" name="Changes" comment="Changed Approval Button from Choose Document to Choose Directory" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +44,18 @@
       <option name="presentableId" value="Default" />
       <updated>1682453471879</updated>
     </task>
+    <task id="LOCAL-00001" summary="Changed Approval Button from Choose Document to Choose Directory">
+      <created>1682533867530</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682533867530</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changed Approval Button from Choose Document to Choose Directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed Approval Button from Choose Document to Choose Directory" />
   </component>
 </project>
