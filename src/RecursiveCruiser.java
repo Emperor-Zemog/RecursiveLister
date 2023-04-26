@@ -80,7 +80,7 @@ public class RecursiveCruiser extends JFrame {
             docButton.addActionListener(new ActionListener() {
                 @Override
                 public void actionPerformed(ActionEvent e) {
-                    docSelect.showDialog(new JFrame(), "Choose Document");
+                    docSelect.showDialog(new JFrame(), "Choose Directory");
                     docSelectL.setText(docSelect.getSelectedFile().getName());
                 }
             });
